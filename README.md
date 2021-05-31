@@ -49,7 +49,7 @@ There are examples files:
 
 1.  Clone this repository
     ```
-    git clone https:
+    git clone https://github.com/kamilb28/graph_theory-project
     ```
     or download zip file of the repository
 
@@ -67,5 +67,5 @@ There are examples files:
     python3 main.py "your_example.txt"
     ```
 
-By default the program will write example and then your file
-Firstly there will be shown network and after that will print out the maximum flow
+* By default the program will write example.txt and then your file
+* Firstly there will be shown network and after that will print out the maximum flow
