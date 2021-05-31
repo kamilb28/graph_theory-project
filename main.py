@@ -7,6 +7,7 @@ def graph(txtfile_name):
     except FileNotFoundError:
         print("ERROR! Can't read \"", txtfile_name, "\" file\nYou probably wrote wrongly your txt file", sep='')
         exit()
+
     file_object = open(txtfile_name, "r")
     capacity = list()
     node_destinations = {}
@@ -63,8 +64,10 @@ def edmonds_karp(capacity, neighbors, start, end):
     flows = [[0 for i in range(len(capacity))] for j in range(len(capacity))]
     while True:
         max, parent = bfs(capacity, neighbors, flows, start, end)
+
         if max == 0:
             break
+
         flow = flow + max
         v = end
         while v != start:
