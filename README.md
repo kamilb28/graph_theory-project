@@ -7,7 +7,7 @@ Your input file should be a txt file that contains an [adjacency matrix](https:/
 For example:
 
 Given a network of seven nodes, source A, sink G, and capacities as shown below:
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Graph](graph_theory-project/Documents and assignments/graph.jpeg)
 
 So our matrix will look like this:
 ```
