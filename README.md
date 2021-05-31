@@ -7,7 +7,7 @@ Your input file should be a txt file that contains an [adjacency matrix](https:/
 For example:
 
 Given a network of seven nodes, source A, sink G, and capacities as shown below:
-![Graph](graph_theory-project/Documents and assignments/graph.jpeg)
+![Graph](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/graph.jpeg)
 
 So our matrix will look like this:
 ```
