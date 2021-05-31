@@ -1,5 +1,7 @@
 # Algorithm of Edmonds-Karp
-[Edmonds–Karp_algorithm on Wikipedia](https://en.wikipedia.org/wiki/Edmonds–Karp_algorithm)
+[Edmonds–Karp algorithm on Wikipedia](https://en.wikipedia.org/wiki/Edmonds–Karp_algorithm)
+* [Analytical part of project](Kamil_Bernacik-assignment.pdf)
+* [Analysis of algorithm](analysis of Edmonds-Karp algorithm.pdf)
 
 ## Input file
 
