@@ -1,4 +1,5 @@
 # Algorithm of Edmonds-Karp
+[Edmonds–Karp_algorithm on Wikipedia](https://en.wikipedia.org/wiki/Edmonds–Karp_algorithm)
 
 ## Input file
 
