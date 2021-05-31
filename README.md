@@ -1,3 +1,4 @@
+# Graph theory project - Kamil Bernacik
 *Shortcuts in the project:*
 * [Analytical part of project (ad.1-8)](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/Kamil_Bernacik-assignment.pdf)
 * [Analysis of algorithm (programming part)](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/analysis%20of%20Edmonds-Karp%20algorithm.pdf)
