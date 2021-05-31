@@ -1,7 +1,9 @@
 # Algorithm of Edmonds-Karp
 [Edmonds–Karp algorithm on Wikipedia](https://en.wikipedia.org/wiki/Edmonds–Karp_algorithm)
-* [Analytical part of project](Kamil_Bernacik-assignment.pdf)
-* [Analysis of algorithm](analysis of Edmonds-Karp algorithm.pdf)
+
+*Shortcuts in the project:*
+* [Analytical part of project](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/Kamil_Bernacik-assignment.pdf)
+* [Analysis of algorithm](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/analysis%20of%20Edmonds-Karp%20algorithm.pdf)
 
 ## Input file
 
