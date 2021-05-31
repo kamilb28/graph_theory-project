@@ -1,6 +1,6 @@
 *Shortcuts in the project:*
-* [Analytical part of project](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/Kamil_Bernacik-assignment.pdf)
-* [Analysis of algorithm](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/analysis%20of%20Edmonds-Karp%20algorithm.pdf)
+* [Analytical part of project (ad.1-8)](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/Kamil_Bernacik-assignment.pdf)
+* [Analysis of algorithm (programming part)](https://github.com/kamilb28/graph_theory-project/blob/main/Documents%20and%20assignments/analysis%20of%20Edmonds-Karp%20algorithm.pdf)
 
 # Algorithm of Edmonds-Karp
 [Edmonds–Karp algorithm on Wikipedia](https://en.wikipedia.org/wiki/Edmonds–Karp_algorithm)
