@@ -67,5 +67,5 @@ There are examples files:
     python3 main.py "your_example.txt"
     ```
 
-* By default the program will compute example.txt and then your file ( if you give one )
+* By default the program will compute example.txt and then your file (if you give one)
 * Firstly there will be shown the network and after that the program will print out the maximum flow
