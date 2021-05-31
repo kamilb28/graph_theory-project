@@ -1,6 +1,6 @@
-### Algorithm of Edmonds-Karp
+# Algorithm of Edmonds-Karp
 
-# Input file
+## Input file
 
 Your input file should be a txt file that contains an [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix).
 
@@ -39,7 +39,7 @@ There are examples files:
 * [Example2](example2.txt)
 
 
-# How to use 
+## How to use 
 
 1.  Clone this repository
     ```
